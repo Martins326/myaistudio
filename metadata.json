@@ -1,0 +1,6 @@
+{
+  "name": "Nexa AI",
+  "description": "Advanced full-stack AI assistant platform with multi-model intelligence, deep research, multimodal analysis, and secure workspace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
